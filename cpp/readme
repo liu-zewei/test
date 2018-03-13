@@ -1,0 +1,4 @@
+#Current directory include all test file which using standard C++.
+#
+#fio:testing file input and output
+#	ReadFile.cpp: test read file
