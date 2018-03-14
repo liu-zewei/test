@@ -1,1 +1,2 @@
 HttpGet.cpp: a simple test for http get using libcurl
+HttpPost.cpp: a simple test which using http post to upload with form
